@@ -6,4 +6,4 @@ public with sharing class ownerProfileDetail {
                 From User
                 Where Id =: ownerId];
     }
-}
+} 
